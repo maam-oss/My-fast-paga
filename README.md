@@ -1,2 +1,10 @@
-# My-fast-paga
-html &lt;!DOCTYPE html> &lt;html lang="ar" dir="rtl"> &lt;head>     &lt;meta charset="UTF-8">     &lt;title>موقعي الأول&lt;/title>     &lt;style>         body { font-family: sans-serif; text-align: center; padding-top: 50px; background-color: #f0f0f0; }         h1 { color: #2c3e50; }     &lt;/style> &lt;/head> &lt;body>     &lt;h1>مبروك
+Accept or Edit the Suggestion: Example Output:
+<DOCTYPE html>
+<html>
+<head>
+<title>My Al Page</title>
+</head>
+<body>
+<h1>Welcome to My Al Webpage</h1>
+<p>This page was generated with GitHub Copilot.</p>
+</body> </html>
